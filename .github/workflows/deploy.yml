@@ -20,6 +20,4 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
-          script: |
-              cd cmsc388T-web-template
-              git pull
+          script: ${{ secrets.SCRIPT }}
