@@ -3,7 +3,7 @@
 
 ### TerpConnect Link
 
-https://www.terpconnect.umd.edu/~ejaffee1/cmsc388T-web-template/index.html
+https://www.terpconnect.umd.edu/~ejaffee1/cmsc388T-web-template/
 
 ### Change made to website
 
